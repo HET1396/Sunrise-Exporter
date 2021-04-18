@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="781" height="776" viewBox="0 0 781 776">
+  <defs>
+    <clipPath id="clip-custom_16">
+      <rect width="781" height="776"/>
+    </clipPath>
+  </defs>
+  <g id="custom_16" data-name="custom – 16" clip-path="url(#clip-custom_16)">
+    <g id="chemistry" transform="translate(40.506 34.137)">
+      <g id="Group_14" data-name="Group 14" transform="translate(10.666)">
+        <g id="Group_13" data-name="Group 13">
+          <path id="Path_86" data-name="Path 86" d="M625.59,559.988V457.937l41.565-41.219-14.5-14.669-39.23,38.972-76.354-38.046V292.331l-98.542-49.444-88.342,44.258-88.429-44.258-88.818,44.258L94.5,248.073V150.252l78.142-39.071,78.142,39.071v59.972H271.53v-72.8L183.015,93.169V0H162.269V93.169L86.521,131.217l-60.927-61.1L10.666,84.785l63.089,63.348V250.184L32.882,291.4l14.841,14.669L86.435,267.1l75.835,38.046V415.79L261.5,465.234l88.688-44.258,88.6,44.258,88.212-44.258,77.839,39.071v97.822L526.7,596.94l-78.142-39.071V497.9H427.816v72.8l88.515,44.258v93.169h20.746V614.952l76.44-38.048L674.961,638l14.323-14.669ZM339.3,402.972l-78.142,39.071-78.142-39.071V305.15l78.142-39.071L339.3,305.15Zm177.03,0-78.142,39.071-78.142-39.071V305.15l78.142-39.071,78.142,39.071Z" transform="translate(-10.666)" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(129.074 222.671)">
+        <g id="Group_15" data-name="Group 15">
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="22.129" height="20.746" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_18" data-name="Group 18" transform="translate(483.135 532.474)">
+        <g id="Group_17" data-name="Group 17">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="22.129" height="20.746" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_20" data-name="Group 20" transform="translate(560.585 464.704)">
+        <g id="Group_19" data-name="Group 19">
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="20.746" height="88.515" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_22" data-name="Group 22" transform="translate(206.525 309.803)">
+        <g id="Group_21" data-name="Group 21">
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="20.746" height="88.515" fill="#fc3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="781" height="776" viewBox="0 0 781 776">
+  <defs>
+    <clipPath id="clip-custom_14">
+      <rect width="781" height="776"/>
+    </clipPath>
+  </defs>
+  <g id="custom_14" data-name="custom – 14" clip-path="url(#clip-custom_14)">
+    <g id="email" transform="translate(68 81)">
+      <g id="top_envolope">
+        <path id="Path_69" data-name="Path 69" d="M582.491,61H50.046a56.118,56.118,0,0,0-24.325,5.69L315.007,355.976l64.838-62.312.006-.009a.018.018,0,0,1,.006-.005L606.824,66.7A56.12,56.12,0,0,0,582.491,61Z" transform="translate(6.732)" fill="#fc9601"/>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(426.73 93.461)">
+        <g id="Group_15" data-name="Group 15">
+          <path id="Path_70" data-name="Path 70" d="M551.8,86.728,338.213,300.3l213.58,213.58a56.116,56.116,0,0,0,5.69-24.325V111.044A56.118,56.118,0,0,0,551.8,86.728Z" transform="translate(-338.213 -86.728)" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_18" data-name="Group 18" transform="translate(0 93.453)">
+        <g id="Group_17" data-name="Group 17">
+          <path id="Path_71" data-name="Path 71" d="M5.69,86.721A56.118,56.118,0,0,0,0,111.046V489.561A56.13,56.13,0,0,0,5.685,513.88L219.273,300.3Z" transform="translate(0 -86.721)" fill="#fc3"/>
+        </g>
+      </g>
+      <g id="Group_20" data-name="Group 20" transform="translate(32.444 333.797)">
+        <g id="Group_19" data-name="Group 19">
+          <path id="Path_72" data-name="Path 72" d="M393.238,277.214l-64.847,62.32a18.916,18.916,0,0,1-26.761,0l-62.324-62.323L25.714,490.788a56.119,56.119,0,0,0,24.334,5.7H582.493a56.117,56.117,0,0,0,24.325-5.69Z" transform="translate(-25.714 -277.211)" fill="#fc3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
